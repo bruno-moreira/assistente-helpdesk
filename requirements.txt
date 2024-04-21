@@ -1,0 +1,4 @@
+pyaudio
+nltk
+SpeechRecognition
+setuptools

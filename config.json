@@ -1,0 +1,35 @@
+{
+    "nome": "ok",
+    "acoes": [
+        {
+            "nome": "atender",
+            "objetos": [
+                "chamado"
+            ]
+        },
+        {
+            "nome": "esperar",
+            "objetos": [
+                "chamado"
+            ]
+        },
+        {
+            "nome": "aguardando",
+            "objetos": [
+                "chamado"
+            ]
+        },
+        {
+            "nome": "finalizar",
+            "objetos": [
+                "chamado"
+            ]
+        },
+        {
+            "nome": "parecer",
+            "objetos": [
+                "chamado"
+            ]
+        }               
+    ]
+}
